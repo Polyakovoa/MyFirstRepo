@@ -1,2 +1,1 @@
-# MyFirstRepo
-Учебный репозиторий
+Hello, world!
